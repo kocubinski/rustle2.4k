@@ -4831,8 +4831,8 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>512</CX>
-        <CY>512</CY>
+        <CX>384</CX>
+        <CY>384</CY>
       </Size>
       <Hotspot>
         <X>0</X>
@@ -4847,8 +4847,8 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>512</CX>
-        <CY>512</CY>
+        <CX>384</CX>
+        <CY>384</CY>
       </Size>
       <Hotspot>
         <X>0</X>
@@ -4863,8 +4863,8 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>512</CX>
-        <CY>512</CY>
+        <CX>384</CX>
+        <CY>384</CY>
       </Size>
       <Hotspot>
         <X>0</X>
