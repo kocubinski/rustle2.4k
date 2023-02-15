@@ -14,7 +14,7 @@
     <RightAnchorToLeft>false</RightAnchorToLeft>
     <BottomAnchorToTop>false</BottomAnchorToTop>
     <Style_Transparent>true</Style_Transparent>
-    <Font>5</Font>
+    <Font>6</Font>
   </Editbox>
   <STMLbox item="CW_ChatOutput">
     <ScreenID>CWChatOutput</ScreenID>
@@ -30,7 +30,7 @@
     <BottomAnchorToTop>false</BottomAnchorToTop>
     <Style_Border>false</Style_Border>
     <Style_Transparent>true</Style_Transparent>
-    <Font>5</Font>
+    <Font>6</Font>
   </STMLbox>
   <Screen item="ChatWindow">
     <RelativePosition>true</RelativePosition>
